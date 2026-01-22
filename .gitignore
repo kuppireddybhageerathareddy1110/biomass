@@ -7,7 +7,7 @@ __pycache__/
 biomass_env/
 
 # Model weights (large files)
-*.pth
+
 
 # Streamlit cache
 .streamlit/
